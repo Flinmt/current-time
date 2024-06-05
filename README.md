@@ -1,4 +1,4 @@
-# current-time (https://currentt.vercel.app/)
+# current-time
 Simple webpage that shows the current time of user or another timezone choose by they.
 
 A|B
